@@ -8,12 +8,17 @@
 ---
 
 ### Run the following Commands in CloudShell
+
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Configuring-and-Using-Cloud-Logging-and-Cloud-Monitoring/refs/heads/main/qwiklab_explorers_ts.sh
+export REGION=
+```
 
-sudo chmod +x qwiklab_explorers_ts.sh
+```
+curl -LO raw.githubusercontent.com/Titash-shil/Service-Monitoring/refs/heads/main/qwiklab_explorers.sh
 
-./qwiklab_explorers_ts.sh
+sudo chmod +x qwiklab_explorers.sh
+
+./qwiklab_explorers.sh
 ```
 
 ---
