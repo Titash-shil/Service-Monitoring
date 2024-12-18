@@ -1,2 +1,0 @@
-# Service-Monitoring
-short solution 
