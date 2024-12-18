@@ -1,4 +1,4 @@
-# || [Service Monitoring](https://www.cloudskillsboost.google/games/5735/labs/36651) ||
+# || [Alerting in Google Cloud](https://www.cloudskillsboost.google/games/5735/labs/36650) ||
 
 ## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
